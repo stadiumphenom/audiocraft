@@ -1,0 +1,1 @@
+{\n  "band_name": "Mirrorspine",\n  "genre": "Post-Rock",\n  "tuning": "Drop D",\n  "tempo_lanes": [\n    {\n      "tempo": 70,\n      "lane": "Verse"\n    },\n    {\n      "tempo": 130,\n      "lane": "Chorus"\n    }\n  ],\n  "vocal_style": "Clean vocals with occasional growls",\n  "production": "High quality studio recording"\n}
